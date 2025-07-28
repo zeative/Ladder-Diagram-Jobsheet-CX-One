@@ -1,2 +1,5 @@
-# Ladder-Diagram-Jobsheet-CX-One
-List Jobsheet 2025 CX-One 
+# Ladder Diagram Jobsheet CX-One
+
+Cara install ladder diagram:ffttyyyyftt
+
+1. Pergi ke folder [Ladder]()
